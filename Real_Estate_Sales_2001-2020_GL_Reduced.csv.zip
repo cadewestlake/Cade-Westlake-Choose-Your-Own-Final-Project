@@ -1,0 +1,4 @@
+This file contains the data set from this URL at kaggle.com. The URL is https://www.kaggle.com/datasets/derrekdevon/real-estate-sales-2001-2020?resource=download. 
+The dataset is too large to upload to github, even when zipped. I deleted all NAN properties that were not located in the towns of Darien, Greenwich, New Canaan,
+Westport, and Willington. That deleted 373,000 rows, and represented a little over a third of the dataset. That reduced the file size enough as a zip file 
+to upload to github.
