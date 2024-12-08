@@ -10,7 +10,7 @@ eager to work a final project on this topic. After I completed the first final p
 and informative exercise, I looked on the course-suggested website Kaggle.com to look for a cleaned dataset that contained real estate transaction data.
 I eventually found this dataset from the URL https://www.kaggle.com/datasets/derrekdevon/real-estate-sales-2001-2020?resource=download. The user who
 scraped this data is username: derrekdevon. The data set was well over 900,000 rows, and roughly 95MB. Even zipped, it was over 25MB. In order to 
-upload to Github, I had to reduce the compressed file size to under 25MB, so I deleted roughly 373,000 rows of data that had the Property Type of NaN.
+upload to Github, I had to reduce the compressed file size to under 25MB, so I deleted roughly 373,000 rows of data that had the Property Type of Nan.
 After zipping the "reduced" dataset, it was 17.7MB, which was able to be uploaded to Github. This did alter some of the graphs because it deleted most of the
 real estate transactions that occurred before 2007. 
 
